@@ -2,7 +2,7 @@
  * Java Basic Exercises
  * w3resource.com
  */
-package exercises.w3resource;
+package exercises.w3resource.basic;
 
 /**
  * @author gogisk
